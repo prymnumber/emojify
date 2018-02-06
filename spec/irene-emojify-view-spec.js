@@ -1,4 +1,4 @@
-'use babel';
+≈≈≈'use babel';
 
 import IreneEmojifyView from '../lib/irene-emojify-view';
 
