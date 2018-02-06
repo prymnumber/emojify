@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Happify",
+        "command": "irene-emojify:happify"
+      },
+      {
+        "label": "Make Boo",
+        "command": "irene-emojify:makeBoo"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Emojify",
+          "submenu": [
+            {
+              "label": "Happify",
+              "command": "irene-emojify:happify"
+            },
+            {
+              "label": "Make Boo",
+              "command": "irene-emojify:makeBoo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "irene-emojify",
+  "main": "./lib/irene-emojify",
+  "version": "0.0.0",
+  "description": "Emojify your life!",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "irene-emojify:happify"
+  },
+  "activationCommands": {
+    "atom-workspace": "irene-emojify:makeBoo"
+  },
+  "repository": "https://github.com/prymnumber/emojify",
+  "license": "I need one?",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
